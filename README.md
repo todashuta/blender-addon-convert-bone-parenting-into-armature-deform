@@ -1,1 +1,1 @@
-# blender-addon-convert-bone-parenting-into-armature-deform
+# Convert Bone Parenting into Armature Deform
